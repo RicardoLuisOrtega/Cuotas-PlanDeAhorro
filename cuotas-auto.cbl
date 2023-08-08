@@ -11,7 +11,7 @@
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
            SELECT SALIDA ASSIGN TO
-           "C:\Users\dante\Desktop\R\COBOL\salida.txt"
+           "C:\Users\ricardo\Desktop\R\COBOL\salida.txt"
            ORGANIZATION IS SEQUENTIAL ACCESS MODE IS SEQUENTIAL
            FILE STATUS IS FS-SALIDA.
 
